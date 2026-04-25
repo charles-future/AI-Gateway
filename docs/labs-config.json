@@ -528,9 +528,9 @@
     "authors": [
       "vieiraae"
     ],
-    "githubPath": "https://github.com/Azure-Samples/AI-Gateway/tree/main/labs/mcp-from-api",
+    "githubPath": "https://github.com/charles-future/AI-Gateway/tree/main/labs/mcp-from-api",
     "tags": [],
-    "lastCommitDate": "2026-02-18T22:32:42.100Z"
+    "lastCommitDate": "2026-04-25T04:34:09.678Z"
   },
   {
     "id": "mcp-prm-oauth",
