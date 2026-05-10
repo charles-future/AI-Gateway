@@ -634,9 +634,9 @@
       "vieiraae",
       "nourshaker-msft"
     ],
-    "githubPath": "https://github.com/Azure-Samples/AI-Gateway/tree/main/labs/model-context-protocol",
+    "githubPath": "https://github.com/charles-future/AI-Gateway/tree/main/labs/model-context-protocol",
     "tags": [],
-    "lastCommitDate": "2026-02-20T22:13:30.448Z"
+    "lastCommitDate": "2026-05-10T04:23:55.259Z"
   },
   {
     "id": "model-routing",
