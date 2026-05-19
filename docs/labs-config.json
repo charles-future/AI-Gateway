@@ -490,9 +490,9 @@
     "authors": [
       "nourshaker-msft"
     ],
-    "githubPath": "https://github.com/Azure-Samples/AI-Gateway/tree/main/labs/mcp-a2a-agents",
+    "githubPath": "https://github.com/charles-future/AI-Gateway/tree/main/labs/mcp-a2a-agents",
     "tags": [],
-    "lastCommitDate": "2026-02-23T15:05:59.377Z"
+    "lastCommitDate": "2026-05-19T03:57:49.477Z"
   },
   {
     "id": "mcp-client-authorization",
