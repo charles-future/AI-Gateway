@@ -404,9 +404,9 @@
     "authors": [
       "nourshaker-msft"
     ],
-    "githubPath": "https://github.com/Azure-Samples/AI-Gateway/tree/main/labs/gemini-mcp-agents",
+    "githubPath": "https://github.com/charles-future/AI-Gateway/tree/main/labs/gemini-mcp-agents",
     "tags": [],
-    "lastCommitDate": "2026-02-04T13:09:52.732Z"
+    "lastCommitDate": "2026-06-05T03:29:37.028Z"
   },
   {
     "id": "gemini-models",
