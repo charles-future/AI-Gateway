@@ -743,9 +743,9 @@
       "nourshaker-msft",
       "vieiraae"
     ],
-    "githubPath": "https://github.com/Azure-Samples/AI-Gateway/tree/main/labs/realtime-mcp-agents",
+    "githubPath": "https://github.com/charles-future/AI-Gateway/tree/main/labs/realtime-mcp-agents",
     "tags": [],
-    "lastCommitDate": "2026-02-20T22:13:30.448Z"
+    "lastCommitDate": "2026-08-23T04:07:45.886Z"
   },
   {
     "id": "secure-responses-api",
