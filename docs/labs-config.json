@@ -570,9 +570,9 @@
     "authors": [
       "jukasper"
     ],
-    "githubPath": "https://github.com/Azure-Samples/AI-Gateway/tree/main/labs/mcp-registry-apic",
+    "githubPath": "https://github.com/charles-future/AI-Gateway/tree/main/labs/mcp-registry-apic",
     "tags": [],
-    "lastCommitDate": "2026-02-04T13:09:52.735Z"
+    "lastCommitDate": "2026-08-27T04:56:02.800Z"
   },
   {
     "id": "mcp-registry-apic-github-workflow",
